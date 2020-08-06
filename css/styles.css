@@ -17,19 +17,26 @@ body{
 }
 
 #cabecera #tagline{
-    padding: 0 0 0 1em;
+    padding: 1em;
     font-weight: bold;
     font-size: 0.8em;
 }
 
 #container{
     width: 70%;
-    padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    padding: 0 0 0 1em:
 }
 
 #container h1{
     font-size: 20;
+}
+
+#footer{
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
