@@ -1,7 +1,7 @@
 # Curso profesional de git y github de Platzi
 Git - GitHub
 
-Es un repositorio creado en gracias al curso de Profesional de Git y GitHub de  [platzi](http://https://platzi.com/clases/git-github/ "platzi")
+Es un repositorio creado gracias al curso de Profesional de Git y GitHub de  [platzi](http://https://platzi.com/clases/git-github/ "platzi")
 
 > Aquí encontrarás las bases necesarias para comprender el manejo de repositorios
 
