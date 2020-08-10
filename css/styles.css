@@ -39,6 +39,10 @@ body{
     padding: 1em;
 }
 
+#post #image {
+    width: 20em;
+}
+
 #footer{
     background: #333;
     color: white;
