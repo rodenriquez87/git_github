@@ -16,4 +16,6 @@ Temario
 - Comandos de Git para casos de emergencia
 - Bonus sobre Git y Github
 
+Creado por el increible PlatziTeam
+
 Recuerda que puedes ahondar más a detalle en la [Documentación de Git](https://git-scm.com/doc "Documentación de Git") y con la [Comunidad de Github](https://github.community "Comunidad de Github")
