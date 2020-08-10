@@ -18,5 +18,6 @@ Temario
 
 Creado por el increible PlatziTeam
 Incluye ejemplos en: Windows, Linux y Mac.
+Disponible para todas las edades.
 
 Recuerda que puedes ahondar más a detalle en la [Documentación de Git](https://git-scm.com/doc "Documentación de Git") y con la [Comunidad de Github](https://github.community "Comunidad de Github")
